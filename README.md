@@ -47,7 +47,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="east_scale" height="30" width="40" />
   </a>
   <a href="https://north-honeydew-316.notion.site/27a4515fe0d080609c2af94d87205569?v=27a4515fe0d080779d54000cba824c92&pvs=73" target="_blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/589/804/png-transparent-notion-logo.png" alt="namgyumo" height="30" width="30" />
+    <img align="center" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/notion.png" alt="namgyumo" height="30" width="30" />
   </a>
 </p>
 
