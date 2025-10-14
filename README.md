@@ -23,6 +23,10 @@
   <a href="https://solved.ac/mjc5433" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mjc5433" alt="solved.ac profile" />
   </a>
+  <br/>
+  <a href="https://solved.ac/profile/mjc5433" target="_blank">
+    <img src="http://mazandi.herokuapp.com/api?handle=mjc5433&theme=dark" alt="Baekjoon solved badge"/>
+  </a>
 </p>
 
 ---
