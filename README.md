@@ -51,6 +51,12 @@
 ---
 
 <h3 align="center">🚀 Keep Coding, Keep Growing 🚀</h3>
-<hr>
-<br>
-<iframe src=" https://namgyumo.github.io/My_Portfolio_overview/" width="100%" height="600"></iframe> 
+<p align="center">
+  <a href="https://namgyumo.github.io/My_Portfolio_overview/" target="_blank">
+    <img src="https://github.com/namgyumo/My_Portfolio_overview/raw/main/preview.png" width="80%" alt="Portfolio Preview"/>
+  </a>
+  <br>
+  <a href="https://namgyumo.github.io/My_Portfolio_overview/" target="_blank">
+    🔗 <b>Click to visit my portfolio</b>
+  </a>
+</p>
