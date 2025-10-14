@@ -51,12 +51,11 @@
 ---
 
 <h3 align="center">🚀 Keep Coding, Keep Growing 🚀</h3>
+<hr>
+
 <p align="center">
   <a href="https://namgyumo.github.io/My_Portfolio_overview/" target="_blank">
-    <img src="https://github.com/namgyumo/My_Portfolio_overview/raw/main/preview.png" width="80%" alt="Portfolio Preview"/>
-  </a>
-  <br>
-  <a href="https://namgyumo.github.io/My_Portfolio_overview/" target="_blank">
-    🔗 <b>Click to visit my portfolio</b>
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
+
