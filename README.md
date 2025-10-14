@@ -6,15 +6,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/east_scale" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="east_scale" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -43,6 +34,15 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=namgyumo&show_icons=true&locale=en&theme=tokyonight" alt="namgyumo" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/east_scale" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="east_scale" height="30" width="40" />
+  </a>
 </p>
 
 ---
