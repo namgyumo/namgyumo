@@ -1,8 +1,6 @@
 <h1 align="center">안녕하세요 👋, 남규모입니다 (Nam-Gyumo)</h1>
 <h3 align="center">로우레벨과 알고리즘에 관심 많은 주니어 개발자</h3>
-
 <br/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=C+%2F+C%2B%2B+%7C+Algorithm+%7C+Low-level;Keep+Coding%2C+Keep+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -56,9 +54,9 @@
 
 ## 🏅 알고리즘 & 문제풀이
 
-<p align="left">
-  <a href="https://www.acmicpc.net/user/mjc5433">
-    <img src="https://img.shields.io/badge/Baekjoon-mjc5433-0066FF?style=flat&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" alt="Baekjoon"/>
+<p align="center">
+  <a href="https://solved.ac/mjc5433">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mjc5433" alt="Solved.ac Profile" />
   </a>
 </p>
 
