@@ -17,19 +17,6 @@
 
 ---
 
-## 🚀 주요 프로젝트
-
-| 프로젝트 | 설명 | 언어 |
-|---------|------|------|
-| [🎮 RPG-project-25.08](https://github.com/namgyumo/RPG-project-25.08) | 클래스/스마트포인터 기반 텍스트 RPG 게임 | C++ |
-| [🧮 Backjoon](https://github.com/namgyumo/Backjoon) | 백준 실버 레벨 알고리즘 풀이 | C |
-| [🧱 Data-structure-practice](https://github.com/namgyumo/Data-structure-practice) | LinkedList, BST, Heap, Merge Sort 직접 구현 | C |
-| [💰 Account](https://github.com/namgyumo/Account) | HTML/JS 기반 개인 가계부 웹앱 | HTML/JS |
-| [🌐 myblog](https://github.com/namgyumo/myblog) | 개인 블로그 웹사이트 | HTML |
-| [🌐 stdn](https://github.com/namgyumo/stdn) | 개인 포트폴리오 사이트 | HTML/CSS |
-
----
-
 ## 🛠 기술 스택
 
 <p align="left">
